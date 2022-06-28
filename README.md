@@ -18,6 +18,10 @@ $ python3 src/main.py -i /YOUR/PATH/main.yml -o MySuperSchema -f pdf
 
 Look at some examples of real project generated in `examples` folder.
 
+### Fuzion Executor Schema
+
+![Fuzion Executor Schema](./examples/fuzionexecutor.png)
+
 ### Fuzion APPS Schema
 
 ![Fuzion Apps Schema](./examples/fuzionapps.png)
